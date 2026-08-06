@@ -3,6 +3,17 @@
     "description": "OpenAPI 3.0.3 model generator for the RestDB Eloquent driver",
     "license": "MIT",
     "keywords": ["laravel", "eloquent", "openapi", "oas", "rest", "driver"],
+    "homepage": "https://github.com/VitisStudio/laravel-restdb-driver",
+    "authors": [
+        {
+            "name": "Dan Poblete",
+            "email": "dan@vitis.studio"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/VitisStudio/laravel-restdb-driver/issues",
+        "source": "https://github.com/VitisStudio/laravel-restdb-driver"
+    },
     "require": {
         "php": "^8.2",
         "illuminate/console": "^12.0||^13.0",
